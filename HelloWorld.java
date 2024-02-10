@@ -9,10 +9,12 @@ public class helloworld
 		int c = a+b;
 		int d = a-b;
 		int e = a/b;
+		int f = a*b;
 
-		System.out.println("Adding a and b =" +c);
+		System.out.println("Adding a and b = " +c);
 		System.out.println("Subtracting a and b = " +d);
-		System.out.println("Dividing a and b =" +e);
+		System.out.println("Dividing a and b = " +e);
+		System.out.println("Multiplying a and b = " +f);
 	}
 }
 
