@@ -8,7 +8,7 @@ public class helloworld
 		int b = 5;
 		int c = a+b;
 
-		System.out.println("Adding a and b =" +c)
+		System.out.println("Adding a and b =" +c);
 	}
 }
 
