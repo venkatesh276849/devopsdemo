@@ -7,7 +7,7 @@ public class helloworld
 		int a = 20;
 		int b = 10;
 		int c = a-b;
-		System.out.println ("Subtracting a-b=" - c);
+		System.out.println ("Subtracting a-b="+ c);
 =======
   main
 	}
