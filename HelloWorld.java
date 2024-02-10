@@ -7,8 +7,10 @@ public class helloworld
 		int a = 10;
 		int b = 5;
 		int c = a+b;
+		int d = a-b;
 
 		System.out.println("Adding a and b =" +c);
+		System.out.println("Subtracting a and b = " +d);
 	}
 }
 
