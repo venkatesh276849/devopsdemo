@@ -15,7 +15,7 @@ public class helloworld
 		System.out.println("Subtracting a and b = " +d);
 		System.out.println("Dividing a and b = " +e);
 		System.out.println("Multiplying a and b = " +f);
+		System.out.println("---------=============++++++++++++++++++++****");
 	}
+
 }
-
-
