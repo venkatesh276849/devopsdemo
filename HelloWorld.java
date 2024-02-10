@@ -8,9 +8,11 @@ public class helloworld
 		int b = 5;
 		int c = a+b;
 		int d = a-b;
+		int e = a/b;
 
 		System.out.println("Adding a and b =" +c);
 		System.out.println("Subtracting a and b = " +d);
+		System.out.println("Dividing a and b =" +e);
 	}
 }
 
